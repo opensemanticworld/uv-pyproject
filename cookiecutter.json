@@ -1,0 +1,9 @@
+{
+  "project_name": "uv-pyproject-example",
+  "project_identifier": "{{cookiecutter.project_name|lower|replace('-', '_')}}",
+  "project_description": "Python project made with uv-pyproject",
+  "authors": [
+    "Author 1",
+    "Author 2"
+  ]
+}
